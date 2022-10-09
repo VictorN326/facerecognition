@@ -12,7 +12,7 @@ import './App.css';
 const app = new Clarifai.App({
   apiKey: '91ec176b33824469bc887e1bfac1ef66'
 });
-
+//This is to show the git push works
 class App extends Component {
   constructor() {
     super();
