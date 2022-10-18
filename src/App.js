@@ -10,6 +10,8 @@ import ImageLinkForm from "./Components/ImageLinkForm/ImageLinkForm";
 import Rank from "./Components/Rank/Rank";
 import "./App.css";
 
+// this is showing that git fetch works and I can get the updated code!
+
 const app = new Clarifai.App({
   apiKey: "91ec176b33824469bc887e1bfac1ef66",
 });
