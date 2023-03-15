@@ -4,6 +4,7 @@ This was how the register page looked like before: ![image](https://user-images.
 This was how the sign in looked like before: ![image](https://user-images.githubusercontent.com/43259651/225193284-0ef0a817-1d36-49d3-b652-66f0550e502c.png)
 Face Recognition before and still now cause it still works: ![image](https://user-images.githubusercontent.com/43259651/225193968-6b89d4af-039d-4810-85d3-d49387d7bf3a.png)
 
+Link to the backend/server side while in progress to fix: https://github.com/VictorN326/facerecognition_backend/tree/master
 
 # Getting Started with Create React App
 
