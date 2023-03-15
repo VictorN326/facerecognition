@@ -1,3 +1,10 @@
+This is the frontend of the application which I quite awhile ago but then I've recently encountered some errors after using node.js and postgreSQL as backend.
+The machine learning face recogniton does work but the signIn, Register, server, and postgreSQL are not all working together perfectly so I am working to fix it currently. I will be working hard on this to fix this issue asap so I can deploy something I can be happy with.
+This was how the register page looked like before: ![image](https://user-images.githubusercontent.com/43259651/225193116-512301eb-70a0-4acb-aa7e-b87cc8e0b7b8.png)
+This was how the sign in looked like before: ![image](https://user-images.githubusercontent.com/43259651/225193284-0ef0a817-1d36-49d3-b652-66f0550e502c.png)
+Face Recognition before and still now cause it still works: ![image](https://user-images.githubusercontent.com/43259651/225193968-6b89d4af-039d-4810-85d3-d49387d7bf3a.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
